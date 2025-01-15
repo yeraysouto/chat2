@@ -1,2 +1,10 @@
 print("bla")
-print("bla-muaja")
+print("bla")
+print("bla")
+print("bla")
+print("bla")
+print("bla-mmm")
+
+
+
+        
