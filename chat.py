@@ -1,2 +1,2 @@
 print("bla")
-print("Vaya senior...")
+print("bla-muaja")
